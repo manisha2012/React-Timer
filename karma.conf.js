@@ -1,3 +1,5 @@
+// This file specifies that how we wanna run our tests
+
 var webpackConfig = require('./webpack.config.js');
 
 module.exports = function (config) {
